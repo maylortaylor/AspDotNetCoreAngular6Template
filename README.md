@@ -1,0 +1,1 @@
+# .NET CORE 2.1 & Angular 6.1.6 Web Application
