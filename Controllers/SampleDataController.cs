@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LiveStreamsApp.Controllers
 {
+    // https://localhost:5001/api/sampleData/weatherForecasts
     [Route("api/[controller]")]
     public class SampleDataController : Controller
     {
